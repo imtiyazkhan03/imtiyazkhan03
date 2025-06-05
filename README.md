@@ -5,6 +5,7 @@
 
 ## 🌐 Socials:
 [![LeetCode](https://img.shields.io/badge/LeetCode-%2300C7B7.svg?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/imtiyazkhan03) 
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300FF00.svg?style=flat&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/imtiyazkhan03/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imtiyazkhan03) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khanimtiyaz7863662@gmail.com) 
 
