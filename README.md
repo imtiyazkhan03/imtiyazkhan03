@@ -1,7 +1,7 @@
 ## Hi there 👋 , I'm Imtiyaz Khan
 
 # 💫 About Me:
-🔭 I’m currently working on YAVI (Travel Management System)<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about Web dev<br>
+🔭 I’m currently working on ISKON GRD<br> I’m currently learning Machine Learning<br>💬 Ask me about Web dev<br>
 
 ## 🌐 Socials:
 [![LeetCode](https://img.shields.io/badge/LeetCode-%2300C7B7.svg?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/imtiyazkhan03) 
